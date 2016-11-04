@@ -1,0 +1,33 @@
+html{
+  padding-top: 50px;
+}
+
+.jumbotron{
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/561634/AboutDivBackground.jpg);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.well {
+   background-color: rgba(245, 245, 245, 0.49);
+}
+
+.navbar {
+
+  <!--background-color: rgba(245, 245, 245, 0.4);-->
+}
+
+.navbar-default{
+    color: rgba(255,255,255, .9);
+}
+
+.email{
+  color: rgba(255,255,255, .9);
+  font-size: x-large;
+}
+
+#Header{
+  color: rgba(0,0,0, 0.9);
+}
