@@ -3,7 +3,7 @@ html{
 }
 
 .jumbotron{
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/561634/AboutDivBackground.jpg);
+  background-image: url('../img/jumbotron.jpg');
   width: 100%;
   height: 100%;
   background-size: cover;
@@ -11,7 +11,7 @@ html{
 }
 
 .well {
-   background-color: rgba(245, 245, 245, 0.49);
+   background-color: rgba(245, 245, 245, 0.50);
 }
 
 .navbar {
